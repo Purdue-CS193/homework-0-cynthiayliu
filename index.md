@@ -9,8 +9,5 @@
 - Gaining skills that will help me succeed as a CS major
 
 
-**Bold** and _Italic_ and `Code` text
-
-
 ```
 
